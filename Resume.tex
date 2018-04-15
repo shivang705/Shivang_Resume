@@ -1,0 +1,43 @@
+\documentclass{article}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\usepackage{blindtext}
+\usepackage{graphicx}
+
+\titleformat{\section}
+{\huge\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\renewcommand{\maketitle}{
+\begin{center}
+	{\huge\bfseries
+	\theauthor}
+\end{center}
+}
+
+\newcommand\tab[1][2cm]{\hspace*{#1}}
+\titlespacing{\subsection}{0em}{0.5em}{1em}
+
+\begin{document}
+\author{Shivang Patel}\date{}
+\maketitle
+
+\hrule
+\vspace{10pt}
+
+\begin{minipage}{.4\textwidth}
+Plot No. 206/D-17,\\ Sarthak Co-op Housing Society,\\ RSC-33, Gorai II,\\ Borivali (West),\\ Mumbai - 400 092,\\ Maharashtra
+\end{minipage}
+\begin{minipage}{.39\textwidth}
+\textbf{Contact Details}:\\ +91-9769194425\\ 022-2869-9461\\
+\textbf{e-mail id}:\\ shivang705@gmail.com\\ shivang.patel@spit.ac.in
+\end{minipage}
+\begin{minipage}{.4\textwidth}
+	\includegraphics[scale=0.03]{myPhoto.jpg}
+\end{minipage}
+
+\end{document}
