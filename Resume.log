@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  16 APR 2018 00:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  16 APR 2018 00:06
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -277,7 +277,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 [1
 
 {C:/Users/Shivang/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./myPhoto
-.jpg>] [2] (Resume.aux) ) 
+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
+
+ []
+
+[2] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
  2422 strings out of 493305
  36506 string characters out of 3128932
@@ -286,14 +291,14 @@ Here is how much of TeX's memory you used:
  4554 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,33p,275b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Shivang/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Shivang/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Shivang/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
-Shivang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
-fb><C:/Users/Shivang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb>
-Output written on Resume.pdf (2 pages, 1092062 bytes).
+<C:/Users/Shivang/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Shivang/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Shivang/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Shivang
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
+Users/Shivang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb>
+Output written on Resume.pdf (2 pages, 1092829 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
